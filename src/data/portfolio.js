@@ -7,6 +7,7 @@ export const meta = {
   github: "https://github.com/Swagat-K04",
   linkedin: "https://www.linkedin.com/in/swagat-khodkumbhe-29b436258/", 
   leetcode: "https://leetcode.com/u/swagat_k04/", 
+  resume: "https://drive.google.com/file/d/1Yv21-0CIBEBH5Z-pf1sTI5_F2LWK4oPz/view", 
 };
 
 export const about = `I'm a final-year Computer Science student at IIIT Nagpur, currently interning as a Software Engineer at Pine Labs (Mosambee) in Mumbai, where I work on alternate payments infrastructure — QR generation, transaction scheduling, and async callback handling.

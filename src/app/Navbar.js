@@ -30,7 +30,7 @@ export default function Navbar({ active }) {
             {item.label}
           </a>
         ))}
-        <a href={`mailto:${meta.email}`} className="nav-cta">Hire Me</a>
+        <a href={meta.resume} target="_blank" className="nav-cta">Resume</a>
       </div>
     </nav>
   );
