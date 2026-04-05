@@ -3,7 +3,7 @@
 A modern, responsive portfolio website showcasing my projects, skills, and experience.
 
 ## 🔗 Live Demo
-(Will add after deployment)
+👉 https://swagat-portfolio-website.vercel.app/
 
 ## 📌 Features
 - Clean and responsive UI
@@ -32,8 +32,8 @@ src/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Swagat-K04/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Swagat-K04/portfolio-website.git
+cd portfolio-website
 ```
 
 Install dependencies:
