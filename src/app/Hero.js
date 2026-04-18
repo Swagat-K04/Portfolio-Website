@@ -46,7 +46,7 @@ export default function Hero() {
 
         <p className="hero-sub">
           Software engineer at <strong>Pine Labs (Mosambee)</strong> building payments
-          infrastructure. Backend-first, systems-obsessed, CP addict.
+          infrastructure.
         </p>
 
         <div className="hero-btns">
